@@ -2,7 +2,7 @@ import wirelesstagpy
 import json
 
 api = wirelesstagpy.WirelessTags(
-    username="berat.bozkurt@cloudica.io", password="1798Berat"
+    username="berat.bozkurt@cloudica.io", password="*****"
 )
 tags = api.load_tags()
 
